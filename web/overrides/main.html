@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block announce %}
+  Friendly reminder: К 7-8 часам вечера, если необходимо напомнить адрес, напиши мне в телеге. Жду 
+  <span class="twemoji heart-throb-hover">
+    {% set icon = "octicons/heart-fill-16" %}
+    {% include ".icons/" ~ icon ~ ".svg" %}
+  </span>
+{% endblock %}

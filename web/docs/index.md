@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Здарова. Привет. こんにちは
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Ты попал сюда. Либо ты хочешь выбрать что-то из меню, либо просто поинтересоваться, что здесь происходит.
 
 ## Commands
 
