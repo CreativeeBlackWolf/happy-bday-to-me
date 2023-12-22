@@ -1,17 +1,12 @@
+---
+hide:
+    - navigation
+---
+
 # Здарова. Привет. こんにちは
 
-Ты попал сюда. Либо ты хочешь выбрать что-то из меню, либо просто поинтересоваться, что здесь происходит.
+Хочешь посмотреть, что будет из напитков? Посмотри [меню]
 
-## Commands
+Если хочешь, можешь оставить мне своё пожелание [здесь](https://forms.gle/Q4U2yFg2ECjtpnz77)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[меню]: menu.md
