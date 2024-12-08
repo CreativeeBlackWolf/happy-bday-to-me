@@ -1,4 +1,4 @@
-site_name: С ДР, ёба!
+site_name: happy birthday to me!
 copyright: Ебало подними
 
 theme:
@@ -65,3 +65,4 @@ markdown_extensions:
 nav:
   - Главная: index.md
   - Меню: menu.md
+  - Wishlist: wishlist.md
